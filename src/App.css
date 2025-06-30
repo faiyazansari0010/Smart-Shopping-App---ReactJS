@@ -1,0 +1,15 @@
+
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+button{
+  
+  cursor: pointer;
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: rgb(39, 212, 39);
+}

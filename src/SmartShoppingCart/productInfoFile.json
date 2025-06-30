@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Apple",
+    "imageUrl": "/images/apple.jpeg",
+    "price": 180,
+    "id": "fruit101",
+    "Desc": "A sweet, crisp fruit rich in fiber and antioxidants. Often enjoyed fresh or in desserts.",
+    "Benefits": "Aids digestion, supports heart health.",
+    "Expiry": "Expires on: 2025-06-10"
+  },
+  {
+    "name": "Mango",
+    "imageUrl": "/images/mango.jpeg",
+    "price": 120,
+    "id": "fruit102",
+    "Desc": "A juicy tropical fruit with a rich, sweet flavor. Known as the 'king of fruits.'",
+    "Benefits": "Boosts immunity, improves skin health.",
+    "Expiry": "Expires on: 2025-06-05"
+  },
+  {
+    "name": "Grapes",
+    "imageUrl": "/images/grapes.jpeg",
+    "price": 100,
+    "id": "fruit103",
+    "Desc": "Small, juicy fruits that grow in clusters and come in many colors. Eaten fresh or used in juices.",
+    "Benefits": "Supports brain health, rich in antioxidants.",
+    "Expiry": "Expires on: 2025-06-03"
+  },
+  {
+    "name": "Orange",
+    "imageUrl": "/images/orange.jpeg",
+    "price": 70,
+    "id": "fruit104",
+    "Desc": "A citrus fruit known for its tangy taste and vitamin C content. Often used in juices and snacks.",
+    "Benefits": "Boosts immunity, improves skin health.",
+    "Expiry": "Expires on: 2025-06-07"
+  },
+  {
+    "name": "Banana",
+    "imageUrl": "/images/banana.jpeg",
+    "price": 80,
+    "id": "fruit105",
+    "Desc": "A soft, sweet fruit that's high in potassium. Commonly eaten raw or added to smoothies.",
+    "Benefits": "Supports energy levels, aids digestion.",
+    "Expiry": "Expires on: 2025-06-02"
+  },
+  {
+    "name": "Papaya",
+    "imageUrl": "/images/papaya.jpeg",
+    "price": 130,
+    "id": "fruit106",
+    "Desc": "A tropical fruit with orange flesh and black seeds. Mildly sweet and soft in texture.",
+    "Benefits": "Promotes digestion, supports eye health.",
+    "Expiry": "Expires on: 2025-06-11"
+  }
+]
