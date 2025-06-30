@@ -2,6 +2,8 @@
 
 **Live At - https://smartshoppingapp.netlify.app/**
 
+**Tech used: React.js, Redux Toolkit, React Router, Context API, JavaScript (ES6+), HTML, CSS**
+
 • Developed a **fully functional** e-commerce **shopping cart application** using **React** with **Redux Toolkit** for scalable **state management** and **React Router** for multi-page navigation.
 
 • Designed a dynamic **Home page** displaying **product listings** with **search filtering**, integrated **cart summary**, and interactive “**Add to Cart**” and “**Remove from Cart**” actions.
