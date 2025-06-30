@@ -20,9 +20,10 @@
 
 • Organized the codebase with **modular components**, maintaining clean and **maintainable project structure**.
 
-<img src="https://github.com/user-attachments/assets/e38d855f-f785-4632-a79a-9580712975a3" style="width: 600; " />
+<img src="https://github.com/user-attachments/assets/5c1b0cfd-dfb3-4d5d-ac4a-dfdef82558cc" width="600" />
 
-<img src="https://github.com/user-attachments/assets/c6437aa1-c1c4-41f5-b2b4-5b5c765c4d44" style="width: 600; height: px;" />
+<img src="https://github.com/user-attachments/assets/31e03673-5fa2-4efa-847a-2addec5020ce" width="600" />
 
-<img src="https://github.com/user-attachments/assets/b7680994-e9a9-4e24-bec2-4f74052638e3" style="width: 600; height: px;" />
+<img src="https://github.com/user-attachments/assets/5bfd947f-62ca-466e-a5be-aff7402bd1e8" width="600" />
+
 
